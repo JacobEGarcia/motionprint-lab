@@ -2,6 +2,8 @@
 
 **Motionprint** is an interactive animation-research prototype that transforms a person’s pointer gesture into a stylized character performance.
 
+[**Launch the live experiment →**](https://jacobegarcia.github.io/motionprint-lab/)
+
 The project explores a simple question: if rhythm, hesitation, curvature, and imperfection are part of human authorship, can an animation tool preserve those signals while adding readable animation principles?
 
 ## The experiment
@@ -37,6 +39,12 @@ The production build is created with:
 npm run build
 ```
 
+## GitHub Pages
+
+The public site is deployed automatically from `main` through GitHub Actions:
+
+**https://jacobegarcia.github.io/motionprint-lab/**
+
 ## Status
 
 Motionprint is a portfolio research prototype, not a production animation system. It is not affiliated with Pixar or The Walt Disney Company.
@@ -44,4 +52,3 @@ Motionprint is a portfolio research prototype, not a production animation system
 ## Author
 
 Jacob E. Garcia — [LinkedIn](https://www.linkedin.com/in/jacob-emmanuel-garcia-26587a265)
-
