@@ -6,7 +6,7 @@ const socialImage = `${siteUrl}og.png`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Motionprint — Human Gesture to Animation Language",
+  title: "Motionprint - Human Gesture to Animation Language",
   description:
     "An interactive animation research prototype that transforms human gesture, rhythm, and imperfection into expressive character motion.",
   authors: [{ name: "Jacob E. Garcia" }],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     "research prototype",
   ],
   openGraph: {
-    title: "Motionprint — What if a character moved like you?",
+    title: "Motionprint - What if a character moved like you?",
     description:
       "Draw a gesture, choose a point of view, and watch human imperfection become expressive motion.",
     url: siteUrl,
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Motionprint — Human Gesture to Animation Language",
+    title: "Motionprint - Human Gesture to Animation Language",
     description: "An interactive research prototype by Jacob E. Garcia.",
     images: [socialImage],
   },

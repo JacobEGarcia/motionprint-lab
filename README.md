@@ -10,11 +10,11 @@ The project explores a simple question: if rhythm, hesitation, curvature, and im
 
 Draw a gesture with a mouse, pen, or finger. Motionprint presents three simultaneous layers:
 
-- **Raw** — the original human gesture
-- **Cleaned** — a smoothed trajectory that retains major timing and direction changes
-- **Styled** — a reversible performance layer with anticipation, overshoot, and settle
+- **Raw** - the original human gesture
+- **Cleaned** - a smoothed trajectory that retains major timing and direction changes
+- **Styled** - a reversible performance layer with anticipation, overshoot, and settle
 
-Choose an emotional point of view—Curious, Brave, Tender, or Chaotic—and tune the exaggeration to see how a character can interpret the same authored path differently.
+Choose an emotional point of view-Curious, Brave, Tender, or Chaotic-and tune the exaggeration to see how a character can interpret the same authored path differently.
 
 ## Why it exists
 
@@ -22,9 +22,9 @@ Motionprint is inspired by [Humanico](https://jacobegarcia.github.io/humanico/),
 
 ## Design principles
 
-1. **Artist in the loop** — results should remain inspectable, editable, and explainable.
-2. **Layer, don’t replace** — the source gesture is preserved alongside every transformation.
-3. **Expression over realism** — the goal is readable intent, not a claim of physical simulation.
+1. **Artist in the loop** - results should remain inspectable, editable, and explainable.
+2. **Layer, don’t replace** - the source gesture is preserved alongside every transformation.
+3. **Expression over realism** - the goal is readable intent, not a claim of physical simulation.
 
 ## Run locally
 
@@ -51,4 +51,4 @@ Motionprint is a portfolio research prototype, not a production animation system
 
 ## Author
 
-Jacob E. Garcia — [LinkedIn](https://www.linkedin.com/in/jacob-emmanuel-garcia-26587a265)
+Jacob E. Garcia - [LinkedIn](https://www.linkedin.com/in/jacob-emmanuel-garcia-26587a265)
